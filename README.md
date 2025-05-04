@@ -1,6 +1,6 @@
 # WhatsApp API for Rust
 
-A Rust port of the Go WhatsApp API library [whatsandra](https://github.com/tulir/whatsandra).
+A Rust port of the Go WhatsApp API library [whatsmeow](https://github.com/tulir/whatsmeow).
 
 ## Features
 
@@ -18,7 +18,7 @@ Add this to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-whatsandra = { git = "https://github.com/yourusername/whatsapp-api-go" }
+whatsandra = { git = "https://github.com/w33ladalah/whatsandra" }
 ```
 
 ## Usage Example
@@ -108,5 +108,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-* [tulir/whatsandra](https://github.com/tulir/whatsandra) - The original Go implementation
+* [tulir/whatsmeow](https://github.com/tulir/whatsmeow) - The original Go implementation
 * WhatsApp for the Web API
