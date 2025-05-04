@@ -1,5 +1,5 @@
 [package]
-name = "whatsapp-api-go"
+name = "whatsandra"
 version = "0.1.0"
 edition = "2024"
 
@@ -30,5 +30,5 @@ name = "whatsandra"
 path = "src/lib.rs"
 
 [[bin]]
-name = "whatsapp-api"
+name = "whatsandra"
 path = "src/main.rs"
